@@ -1,0 +1,56 @@
+Hello
+Tan Jia Kee
+
+Input the first number : 74
+Input the second number : 36
+Sum : 110
+
+74 + 36
+110
+
+Input 1st number : 50
+Input 2nd number : 3
+50 / 3 = 16
+The division of a and b is 16
+
+43
+1
+19
+13
+
+Input first number : 25
+Input second number : 5
+25 x 5 = 125
+
+Input first number : 125
+Input second number : 24
+125 + 24 = 149
+125 - 24 = 101
+125 x 24 = 3000
+125 / 24 = 5
+125 mod 24 = 5
+
+Input a number : 8
+8 x 1 = 8
+8 x 2 = 16
+8 x 3 = 24
+8 x 4 = 32
+8 x 5 = 40
+8 x 6 = 48
+8 x 7 = 56
+8 x 8 = 64
+8 x 9 = 72
+8 x 10 = 80
+
+2.138888888888889
+
+Input radius : 7.5
+Perimeter is = 47.12388980384689
+Area is = 176.71458676442586
+
+Enter first number : 10
+Enter second number : 20
+Enter third number : 30
+Enter fourth number : 40
+Enter fifth number : 50
+Average of the five number is 30
